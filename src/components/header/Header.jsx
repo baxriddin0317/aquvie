@@ -25,19 +25,19 @@ function Header() {
         {/* nav */}
         <nav className='hidden md:block'>
           <ul className='flex'>
-            <li className=''> 
+            <li className='menu__item'> 
               <Link to="#" className='text-lg' >Wat we doen</Link> 
             </li>
-            <li className='pl-5 lg:pl-7'> 
+            <li className='menu__item'> 
               <Link to="#" className='text-lg' >Cases</Link> 
             </li>
-            <li className='pl-5 lg:pl-7'> 
+            <li className='menu__item'> 
               <Link to="#"  className='text-lg' >Ons verhaal</Link> 
             </li>
-            <li className='pl-5 lg:pl-7'> 
+            <li className='menu__item'> 
               <Link to="#" className='text-lg' >Blog</Link> 
             </li>
-            <li className='pl-5 lg:pl-7'> 
+            <li className='menu__item'> 
               <Link to="#" className='text-lg' >Contact</Link> 
             </li>
           </ul>
