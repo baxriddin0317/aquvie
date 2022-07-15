@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "title": "Open source",
+        "text": "Het heeft een aantal grote voordelen dat Magento een open source systeem is. Allereerst is het gratis (niet onbelangrijk) en daarnaast zijn er veel templates, extensies en plug-ins beschikbaar. Hiermee heb je de volledige controle over het ontwerp en de functionaliteiten van je webshop. "
+    },
+    {
+        "id": 2,
+        "title": "Kies je eigen design ",
+        "text": "Magento geeft je veel vrijheid op het gebied van design. Zo kunnen wij jouw identiteit als bedrijf vertalen naar een design dat qua ‘look en feel’ perfect aansluit bij jouw dienst of product. Loop ook eens door onze cases heen om te zien hoe zo’n op maat gemaakte webshop er in de praktijk uitziet.  "
+    },
+    {
+        "id": 3,
+        "title": "Effectieve features",
+        "text": "Magento is een CMS dat speciaal ontwikkeld is voor webshops. Er zijn daarom veel handige en effectieve functionaliteiten waar je gebruik van kunt maken. Denk bijvoorbeeld aan: zoekfuncties, favorieten, wenslijsten en meer.  "
+    },
+    {
+        "id": 4,
+        "title": "Optimale SEO",
+        "text": "Goed vindbaar zijn in de zoekmachines is voor webshops cruciaal. Webshops die gebouwd worden in Magento kunnen met de juiste expertise compleet geoptimaliseerd worden voor SEO. Aan welke SEO-eisen een Magento webshop moet voldoen om succesvol te zijn, lees je op de pagina Magento SEO. "
+    },
+    {
+        "id": 5,
+        "title": "Responsive design",
+        "text": "Een fijne shopervaring mogelijk maken op alle denkbare devices, van smartphones en tablets tot desktop, is tegenwoordig een harde eis voor webshops. Magento webshops zijn, met de juiste kennis, responsive te maken voor ieder systeem en apparaat.  "
+    },
+    {
+        "id": 6,
+        "title": "Geen limiet aan producten",
+        "text": "Magento stelt geen limiet aan het aantal producten op de webshop en is daarmee een zeer geschikt voor grote en complexe webshops. "
+    },
+    {
+        "id": 7,
+        "title": "Meerdere shops vanuit een systeem",
+        "text": "Met het Magento CRM kun je verschillende webshops beheren vanuit één systeem. Ideaal als je meerdere webshops runt of van plan bent om naast je huidige webshop nog een webshop te lanceren. "
+    },
+    {
+        "id": 8,
+        "title": "Veel (en veilige) betaalmethodes",
+        "text": "Om ervoor te zorgen dat je gebruikers je product of dienst ook daadwerkelijk kopen, is een veilig en gebruiksvriendelijk betaalsysteem onmisbaar. Binnen Magento kun je verschillende betaalmethodes toevoegen en verloopt betaalverkeer snel, efficiënt én veilig.  "
+    }
+]

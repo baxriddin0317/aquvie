@@ -1,0 +1,24 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import "font.css";
+
+@layer base{
+    body {
+      @apply font-medium text-black;
+    }
+  
+    input,
+    select,
+    textarea {
+      @apply focus:outline-none;
+    }
+}
+
+@layer components {
+  .container {
+    @apply max-w-7xl mx-auto px-5
+  }
+}
+  

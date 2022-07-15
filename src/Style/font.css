@@ -1,0 +1,25 @@
+@font-face {
+    font-family: "MarkPro-Bold";
+    src: url("../Assets/Font/MarkPro-Bold.woff2") format("woff2");
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: "MarkPro-Medium";
+    src: url("../Assets/Font/MarkPro-Medium.woff2") format("woff2");
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: "MarkPro-Heavy";
+    src: url("../Assets/Font/MarkPro-Heavy.woff2") format("woff2");
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: "MarkPro";
+    src: url("../Assets/Font/MarkPro.woff2") format("woff2");
+    font-weight: normal;
+}
+
+
