@@ -14,7 +14,7 @@ function Header() {
   }
 
   return (
-    <header className="py-4 md:py-5 px-9 md:px-11 mb-5" >
+    <header className="py-4 md:py-5 px-4 md:px-7 lg:px-9 md:px-11 mb-5" >
  
       <div className='flex justify-between items-center'>
         {/* logo */}
@@ -37,7 +37,7 @@ function Header() {
             <li className='menu__item'> 
               <Link to="#" className='text-lg' >Blog</Link> 
             </li>
-            <li className='menu__item'> 
+            <li className='menu__item '> 
               <Link to="#" className='text-lg' >Contact</Link> 
             </li>
           </ul>

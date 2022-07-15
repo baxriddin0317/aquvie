@@ -8,7 +8,7 @@ import Data from "../Assets/Data/List.json";
 function List() {
 
   return (
-    <section className='bg-[#F0F6F9] p-16 pb-36'>
+    <section className='bg-[#F0F6F9] py-16 px-5 md:px-16 pb-36'>
         <h1 className='text-center font-bold text-4xl mb-3'>
             Magento webshop laten maken: 8 voordelen
         </h1>
